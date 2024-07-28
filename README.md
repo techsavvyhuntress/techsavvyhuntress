@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ethical hacking projects as well as solving complex mathematical problems relevant to securing public databases etc. 
 - 📫 How to reach me is by my GitHub, IG as username techsavvy.huntress and by my website (official link coming soon.)
 - 😄 Pronouns: Her/ she
-- ⚡ Fun fact: There are only two types of companies in the world; those that have been breached and know it; and those that have been breached and don't know it. ~ T.S.
+- ⚡ Fun fact: "Hackers; Fearless in the face of complexity".
 
 <!---
 techsavvyhuntress/techsavvyhuntress is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
